@@ -1,4 +1,4 @@
-##musictools
+<b>musictools</b>
 
 musictools is a set of tools for helping learn music theory.
 
